@@ -1,4 +1,4 @@
-
+      
 * {
     text-decoration: none;
     margin: 0;
@@ -15,12 +15,12 @@ body {
 
 
 h1 {
-    color: #333;
+    color: white;
     margin-bottom: 10px;
 }
 
 h2 {
-    color: #005f99; 
+    color: rgb(151, 10, 10); 
     margin: 15px 0;
 }
 
@@ -31,6 +31,8 @@ ul {
 }
 
 li {
-    color: #b81616;
+    color: rgb(151, 10, 10); 
     margin: 5px 0;
 }
+
+
